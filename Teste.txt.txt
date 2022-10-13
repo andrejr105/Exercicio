@@ -1,1 +1,3 @@
 "Informações inseridas no repositório local como parte do exercício de fixação do aprendizado."
+
+"Informações inseridas no repositório REMOTO como parte do exercício de fixação do aprendizado."
